@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Andrey 👋
 
-<!--
-**Sh6abrA/Sh6abrA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **About Me**:
+- 🎯 I’m a Frontend Developer with two years of experience building web applications.
+- 🛠️ I specialize in **React**, **JavaScript**, **HTML5**, and **CSS3**, with hands-on experience in **TypeScript** and modern frameworks.
+- 🌍 Currently working on enhancing user experiences and creating efficient, scalable web apps.
+- 📈 Passionate about continuous learning and growth, participating in hackathons and competitions.
+- 🏆 Award-winning hackathon participant with experience in real-time interaction systems, using models like **Tensorflow.js**, **Mediapipe**, and **ONNX.js**.
 
-Here are some ideas to get you started:
+🔧 **Tech Stack**:
+- React, JavaScript, TypeScript, CSS3, HTML5, SCSS
+- Redux Toolkit, RTK Query, Webpack, Git, NGINX
+- Feature Sliced Design (FSD)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **How to reach me**:
+- Email: [andpro22223@gmail.com](mailto:andpro22223@gmail.com)
+- Telegram: [@Shv0bra](https://t.me/Shv0bra)
+- GitHub: [GitHub Profile](#)
